@@ -37,14 +37,9 @@
 
 		return calcularScoreFinal(simuArr);
 	}
-
-	import { Accordion, AccordionItem } from '@skeletonlabs/skeleton';
 </script>
 
-
-
-
-<h1 class="card bg-surface-50-900-token">Calculadora do ENEM</h1>
+<h1>Calculadora do ENEM</h1>
 <p>
 	Esta calculadora serve para você entender que se tivesse aprendido matemática não teria tirado
 	essa nota paia 💩
